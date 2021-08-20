@@ -6,7 +6,7 @@ conda install -n week3 -c conda-forge python-graphviz
 conda install -n week3 pytorch torchvision -c pytorch
 conda activate week3
 
-(week3) pip install -e cogworks_week3
+(week3) pip install cogworks_week3
 ```
 
 # Installing this package (Windows/Linux)
@@ -17,5 +17,5 @@ conda install -n week3 -c conda-forge python-graphviz
 conda install -n week3 pytorch torchvision cpuponly -c pytorch
 conda activate week3
 
-(week3) pip install -e cogworks_week3
+(week3) pip install cogworks_week3
 ```
