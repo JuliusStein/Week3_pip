@@ -1,0 +1,11 @@
+jupyter
+notebook
+numpy
+matplotlib
+numba
+scikit-learn
+nltk
+mygrad
+mynn
+noggin
+gensim

@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.py
+src/cogworks_week3.egg-info/PKG-INFO
+src/cogworks_week3.egg-info/SOURCES.txt
+src/cogworks_week3.egg-info/dependency_links.txt
+src/cogworks_week3.egg-info/not-zip-safe
+src/cogworks_week3.egg-info/requires.txt
+src/cogworks_week3.egg-info/top_level.txt
